@@ -1,0 +1,12 @@
+{
+  "design_choices": {
+    "alpha": 0.25,
+    "q_init": 1.0,
+    "epsilon_strategy": "\u03b5-greedy with exponential decay",
+    "epsilon_start": 0.3,
+    "epsilon_decay": 0.995,
+    "epsilon_min": 0.02,
+    "episodes": 400,
+    "max_steps_per_episode": 300
+  }
+}

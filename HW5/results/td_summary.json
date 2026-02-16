@@ -1,0 +1,9 @@
+{
+  "alpha": 0.18,
+  "delta": 0.0001,
+  "min_episodes": 500,
+  "max_episodes": 6000,
+  "mean_episodes": 516.7,
+  "std_episodes": 14.528936643815335,
+  "max_norm_vs_optimal": 0.677438028107384
+}
